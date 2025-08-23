@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # STM32 HAL NRF24L01 Kütüphanesi ve Örnekleri
 
 Bu proje, STM32 mikrodenetleyicilerinde HAL kütüphanesi ile NRF24L01 kablosuz modülünü kullanarak veri iletimi ve alımı için geliştirilmiş C sürücüsü ve örnek uygulamaları içerir.
@@ -56,3 +57,11 @@ Bu proje, STM32 mikrodenetleyicilerinde HAL kütüphanesi ile NRF24L01 kablosuz 
 ## Lisans
 
 Sürücü ve örnekler MIT lisansı ile sunulmaktadır. STM32 HAL ve CMSIS dosyaları STMicroelectronics'e aittir.
+=======
+# stm32_hal_nrf24l01
+
+referance; https://github.com/developer328/stm32_hal_nrf24_library
+
+How To Use
+https://teslaninsovalyesi.blogspot.com/2025/08/stm32-nrf24l01-11-rx-tx-ornegi.html
+>>>>>>> f25d258f005b2accf2d474d3faa4918954984a24
